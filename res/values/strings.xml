@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currency Converter</string>
+    <string name="from_country_prompt">Choose a country currency</string>
+
+    <string-array name="from_country_arrays">
+        <item>United States (USD)</item>
+        <item>Canada (CAD)</item>
+        <item>China (CNY)</item>
+        <item>Denmark (DKK)</item>
+        <item>Egypt (EGP)</item>
+        <item>France (EUR)</item>
+        <item >Japan(JPY)</item>
+        <item>Mexico (MXN)</item>
+        <item>Pakistan (PKR)</item>
+        <item>Singapore (SGD)</item>
+        <item>India (INR)</item>
+        <item>South Africa (ZAR)</item>
+    </string-array>
+    
+    <string name="to_country_prompt">Choose a country currency</string>
+
+    <string-array name="to_country_arrays">
+        <item>United States (USD)</item>
+        <item>Canada (CAD)</item>
+        <item>China (CNY)</item>
+        <item>Denmark (DKK)</item>
+        <item>Egypt (EGP)</item>
+        <item>France (EUR)</item>
+        <item >Japan(JPY)</item>
+        <item>Mexico (MXN)</item>
+        <item>Pakistan (PKR)</item>
+        <item>Singapore (SGD)</item>
+        <item>India (INR)</item>
+        <item>South Africa (ZAR)</item>
+    </string-array>
+    
+    <string name="about"> Android Currency convertor gets current rate from google convertor </string>
+</resources>
